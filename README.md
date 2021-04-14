@@ -7,3 +7,6 @@ The project is built following the Modern React with Redux course by Stephen Gri
 # Organization
 
 The **client** folder is a submodule repository which contains the React part of the app
+
+# Progression
+80%
