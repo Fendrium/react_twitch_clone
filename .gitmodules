@@ -1,4 +1,4 @@
 [submodule "client"]
-	path = client/
+	path = client
 	url = https://github.com/Fendrium/react_twitch_clone_client
 	
