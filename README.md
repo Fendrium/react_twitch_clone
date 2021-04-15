@@ -1,6 +1,6 @@
 # React Twitch Clone
 
-A Twitch clone built with React, Redux and Redux Form
+A Twitch clone built with React, Redux, Redux Form and JSON Server
 
 The project is built following the Modern React with Redux course by Stephen Grider
 
